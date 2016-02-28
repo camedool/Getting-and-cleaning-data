@@ -1,4 +1,4 @@
-##Script for the getting the data for wearable devices and tidying. 
+##Script for the getting the data for wearable devices and tidying them and saving the tidy output dataset. 
 
 library(reshape2)
 
